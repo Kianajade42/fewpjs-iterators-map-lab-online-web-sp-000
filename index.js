@@ -20,4 +20,3 @@ for(var i=0;i < tutorial.length; i++) {
     return tutorial.join(' ');
   });
 }
-
